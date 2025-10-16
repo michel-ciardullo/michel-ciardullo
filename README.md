@@ -1,10 +1,9 @@
 # About me
 
-- 👋 Hi, I’m Michel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Michel
+- 👀 I am interested in IT development
+- 🌱 I never go to sleep without learning something new
+- 💞️ I love animals, I have a dog and a parrot
 
 <!--
 **michel-ciardullo/michel-ciardullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
