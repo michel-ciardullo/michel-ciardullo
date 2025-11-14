@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michel-ciardullo)](https://github.com/michel-ciardullo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michel-ciardullo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
